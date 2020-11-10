@@ -4,9 +4,9 @@
 
 💻 I'm currently working in TSC.
 
-:robot: Most of the time I'm writing on Python and Go, sometimes JavaScript
+:robot: Most of the time I'm writing on Java.
 
-:rocket: I love pet-projects! They help me grow professionally all my life
+:rocket: I love pet-projects! They help me grow professionally all my life :)
 
 :email: You can shoot me an email at upagge@mail.ru
 
