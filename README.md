@@ -20,3 +20,8 @@
 -->
 ## 🤝 Connect with me
 [![upagge@mail.ru](https://img.shields.io/badge/upagge@mail.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:upagge@mail.ru) [![telegram](https://img.shields.io/badge/uPagge%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/upagge)
+[![habr](https://img.shields.io/badge/Career Habr%20-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/upagge)
+
+<!--
+## Other links
+-->
