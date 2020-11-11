@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Struchkov Mark
 
 * 🇷🇺 I live in Ryazan, Russia
-* 💻 I'm currently working in TSC.
+* 💻 I'm currently working in [Tsconsulting](http://www.tsconsulting.com/).
 * :robot: Most of the time I'm writing on Java.
 * :rocket: I love pet-projects! They help me grow professionally all my life :)
 * :email: You can shoot me an email at upagge@mail.ru
