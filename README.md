@@ -13,6 +13,14 @@
 ## 🐶 My pet-projects
 
 ## 💼 My work-projects
+
+### КомиссиON
+Development of the backend part of the site [komission.vtb.ru](https://komission.vtb.ru)
+
+About your participation: 
+* full implementation of search
+* filtering of PDF report generation
+    
 -->
 ## 🤝 Connect with me
 [![upagge@mail.ru](https://img.shields.io/badge/upagge@mail.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:upagge@mail.ru) [![telegram](https://img.shields.io/badge/uPagge%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/upagge)
