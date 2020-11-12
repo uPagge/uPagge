@@ -16,7 +16,7 @@
 ### [Godfather Bots](https://github.com/Godfather-Bots)
 A set of projects that allow you to quickly create bots for VKontakte or Telegram. Also based on abstract projects, you can add a project to any other social network with the ability to create bots. I have been writing this project for as long as I can remember, or rather it is an extension of my diploma work :).
 
-### [Haiti Framework](https://github.com/Godfather-Bots)
+### [Haiti Framework](https://github.com/haiti-projects)
 None of us like to write boiler code, it's a set of projects that allow us to develop faster, so we have time to lie on the beach.
 
 ## 💼 My work-projects
