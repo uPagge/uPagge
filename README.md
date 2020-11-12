@@ -13,13 +13,15 @@
 
 ## 🐶 My pet-projects
 
-### 🔫 [Godfather-Bots](https://github.com/Godfather-Bots)
+### [Godfather Bots](https://github.com/Godfather-Bots)
 A set of projects that allow you to quickly create bots for VKontakte or Telegram. Also based on abstract projects, you can add a project to any other social network with the ability to create bots. I have been writing this project for as long as I can remember, or rather it is an extension of my diploma work :).
 
+### [Haiti Framework](https://github.com/Godfather-Bots)
+None of us like to write boiler code, it's a set of projects that allow us to develop faster, so we have time to lie on the beach.
 
 ## 💼 My work-projects
 
-### КомиссиON
+### KomissiON
 Development of the backend part of the site [komission.vtb.ru](https://komission.vtb.ru)
 
 About your participation: 
@@ -30,7 +32,3 @@ About your participation:
 ## 🤝 Connect with me
 [![upagge@mail.ru](https://img.shields.io/badge/upagge@mail.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:upagge@mail.ru) [![telegram](https://img.shields.io/badge/uPagge%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/upagge)
 [![habr](https://img.shields.io/badge/Career%20Habr%20-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/upagge)
-
-<!--
-## Other links
--->
