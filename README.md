@@ -34,5 +34,5 @@ About your participation:
 [![habr](https://img.shields.io/badge/Career%20Habr%20-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/upagge)
 
 ## 🤝 Other links
-[![maven central](https://img.shields.io/badge/Maven%20Central%20-%2300BFFF.svg?&style=for-the-badge&logo=maven&logoColor=white)](https://mvnrepository.com/search?q=sadtech)
+[![maven central](https://img.shields.io/badge/Maven%20Central%20-%2300BFFF.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white)](https://mvnrepository.com/search?q=sadtech)
 
