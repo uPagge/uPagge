@@ -2,6 +2,7 @@
 
 * 🇷🇺 I live in Ryazan, Russia
 * 💻 I'm currently working in [Tsconsulting](http://www.tsconsulting.com/).
+* ✏️ I write articles on my blog [blog.upagge.ru (ru)](https://blog.upagge.ru).
 * :robot: Most of the time I'm writing on Java.
 * :rocket: I love pet-projects! They help me grow professionally all my life :)
 * :email: You can shoot me an email at upagge@mail.ru
@@ -20,15 +21,8 @@ A set of projects that allow you to quickly create bots for VKontakte or Telegra
 ### [Haiti Framework](https://github.com/haiti-projects)
 None of us like to write boiler code, it's a set of projects that allow us to develop faster, so we have time to lie on the beach.
 
-## 💼 My work-projects
-
-### KomissiON
-Development of the backend part of the site [komission.vtb.ru](https://komission.vtb.ru)
-
-About your participation: 
-* full implementation of search
-* filtering of PDF report generation
-   
+### [B.log uPagge](https://blog.upagge.ru)
+This is my blog, in which I describe my projects, share useful developments and guides.
    
 ## 🤝 Connect with me
 [![upagge@mail.ru](https://img.shields.io/badge/upagge@mail.ru%20-%23168DE2.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:upagge@mail.ru) [![telegram](https://img.shields.io/badge/uPagge%20-%232CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/upagge)
