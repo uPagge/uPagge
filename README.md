@@ -18,8 +18,11 @@ A set of projects that allow you to quickly create bots for VKontakte or Telegra
 ### [Haiti Framework](https://github.com/haiti-projects)
 None of us like to write boiler code, it's a set of projects that allow us to develop faster, so we have time to lie on the beach.
 
-### [B.log uPagge](https://blog.upagge.ru)
-This is my blog, in which I describe my projects, share useful developments and guides.
+### [uBlogger | u.Blog uPagge](https://github.com/upagge/uBlogger)
+This is a template for a static HUGO site generator. I use it for my blog and decided to share my experience with others. B.log uPagge
+This is [my blog](https://blog.upagge.ru), in which I describe my projects, share useful developments and guides.
+
+In my blog I write about development, DevOps, and investment. In English and Russian, if possible.
    
 ## :call_me_hand: Connect with me
 [![me@upagge.ru](https://img.shields.io/badge/me@upagge.ru%20-%23168DE2.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:me@upagge.ru) 
