@@ -1,6 +1,6 @@
 ### Hi there :wave: I'm Struchkov Mark
 * :ru: I live in Ryazan, Russia
-* :man_technologist: I'm currently working in [Tsconsulting](http://www.tsconsulting.com/).
+* :man_technologist: I'm currently working in [T1 Group](https://t1.ru/).
 * :pencil2: I write articles on my blog [blog.upagge.ru (en)](https://blog.upagge.ru/en/) [blog.upagge.ru (ru)](https://blog.upagge.ru).
 * :robot: Most of the time I'm writing on Java.
 * :rocket: I love pet-projects! They help me grow professionally all my life :)
