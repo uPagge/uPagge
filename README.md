@@ -2,7 +2,7 @@
 🤪 [Who am i?](https://struchkov.dev/blog/about/) · [✏️ B.log](https://struchkov.dev/blog/)
 ***
 
-I work at T1 Group as a Senior Java Developer.
+I work at T1 Group as a Senior Java Developer. I am 25 years old of which 4 years of industrial development and a year of training.
 
 In my spare time I write articles for newbies on [my blog about Java development](https://struchkov.dev/about). Which is visited by more than 6500 unique users per month.
 
