@@ -1,4 +1,4 @@
-### Hi there :wave: I'm Struchkov Mark
+# Hi 👋 I'm Struchkov Mark
 * :ru: I live in Ryazan, Russia
 * :man_technologist: I'm currently working in [T1 Group](https://t1.ru/).
 * :pencil2: I write articles on my blog [struchkov.dev](https://struchkov.dev/blog/).
