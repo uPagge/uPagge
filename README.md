@@ -38,4 +38,5 @@ This is a template for the HUGO static site generator. I used to use it for my b
 [![mark@struchkov.dev](https://img.shields.io/badge/mark@struchkov.dev%20-%23168DE2.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:mark@struchkov.dev) 
 [![telegram](https://img.shields.io/badge/uPagge%20-%232CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/upagge) 
 [![habr](https://img.shields.io/badge/Career%20Habr%20-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/upagge)
+***
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/40397740/187086679-84d7cd96-4311-4454-b3c7-f44b47a2477c.svg)
